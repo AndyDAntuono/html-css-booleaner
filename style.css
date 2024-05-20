@@ -20,6 +20,14 @@
     text-align: center;
 }
 
-.de-booleaner {
+.header-p {
+    color: darkgray;
+}
+
+#de-booleaner {
     color: darkturquoise;
+}
+
+main {
+    margin-top: 20px
 }
