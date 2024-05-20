@@ -12,10 +12,14 @@
 }
 
 .logo {
-    width: 25%;
+    width: 15%;
     padding-top: 50px;
 }
 
 .article title {
     text-align: center;
+}
+
+.de-booleaner {
+    color: darkturquoise;
 }
