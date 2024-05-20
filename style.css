@@ -50,3 +50,29 @@ table {
 .tbody-odd-rows {
     background-color: rgba(177,229,242,255);
 }
+
+.footer-p {
+    color: darkgrey;
+}
+
+.footer-pics-monitor {
+    position: relative;
+    color: white;
+}
+
+.monitor-text {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+
+  .footer-pics-graph {
+    position: relative;
+    color: white;
+  }
+
+  .graph-text {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
