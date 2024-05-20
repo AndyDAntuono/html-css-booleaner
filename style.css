@@ -29,3 +29,24 @@ main {
 .tim-photos-camptions {
     font-size: 10px;
 }
+
+table {
+    width: 100%;
+}
+
+.thead-row {
+    background-color:rgba(32,169,229,255);
+    color: white;
+}
+
+.twenty-five-percent {
+    width: 25%;
+}
+
+.fifty-percent {
+    width: 50%;
+}
+
+.tbody-odd-rows {
+    background-color: rgba(177,229,242,255);
+}
